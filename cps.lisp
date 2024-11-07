@@ -1,5 +1,5 @@
 ;; TODO
-;; embed dynamic variables in continuation
+;; test dynamic scoped variables
 ;; labels, let*
 ;; eval&
 ;; defun
